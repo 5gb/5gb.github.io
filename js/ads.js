@@ -1,4 +1,3 @@
-<script language="JavaScript">
 /*
 One Time Popup Script
 By Website Abstraction (http://www.wsabstract.com) and
@@ -65,4 +64,3 @@ SetCookie('count', count, exp);
 }
 }
 window.onload=checkCount
-</script>
